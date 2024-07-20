@@ -1,0 +1,12 @@
+D:\Projects\FormlarArasiVeriTaşıma\bin\Debug\FormlarArasiVeriTaşıma.exe.config
+D:\Projects\FormlarArasiVeriTaşıma\bin\Debug\FormlarArasiVeriTaşıma.exe
+D:\Projects\FormlarArasiVeriTaşıma\bin\Debug\FormlarArasiVeriTaşıma.pdb
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTasima.csproj.AssemblyReference.cache
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTasima.csproj.SuggestedBindingRedirects.cache
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTaşıma.Form1.resources
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTaşıma.Form2.resources
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTaşıma.Properties.Resources.resources
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTasima.csproj.GenerateResource.cache
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTasima.csproj.CoreCompileInputs.cache
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTaşıma.exe
+D:\Projects\FormlarArasiVeriTaşıma\obj\Debug\FormlarArasiVeriTaşıma.pdb
